@@ -6,3 +6,9 @@ I'm Haylee and I create Software, APIs, Websites, Backend Systems & Frontend Des
 ⚡ Fun fact: Never sleeps 💤  
 😄 Pronouns: she/her  
 📫 How to reach me: [inventivetalent.dev](https://inventivetalent.dev?utm_source=github_readme) [@InventivtalentDev](https://twitter.com/Inventivtalent)   
+
+### Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InventivetalentDev&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6" />
+</div>
