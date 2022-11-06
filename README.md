@@ -5,7 +5,7 @@ I'm Haylee and I create Software, APIs, Websites, Backend Systems & Frontend Des
 🔭 I’m currently working on stuff [@HypixelDev](https://github.com/HypixelDev) and various open-source projects   
 ⚡ Fun fact: Never sleeps 💤  
 😄 Pronouns: she/her  
-📫 How to reach me: [inventivetalent.dev](https://inventivetalent.dev?utm_source=github_readme) [@InventivtalentDev](https://twitter.com/Inventivtalent)   
+📫 How to reach me: [inventivetalent.org](https://inventivetalent.org?utm_source=github_readme) [@Inventivtalent](https://twitter.com/Inventivtalent)  
 
 ### Stats
 <div align="center">
