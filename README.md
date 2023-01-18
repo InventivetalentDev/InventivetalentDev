@@ -9,6 +9,6 @@ I'm Haylee and I create Software, APIs, Websites, Backend Systems & Frontend Des
 
 ### Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InventivetalentDev&count_private=true&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api?username=InventivetalentDev&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6" />
 </div>
